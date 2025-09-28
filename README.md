@@ -82,4 +82,4 @@ This repository is currently being restructured. Some content may still be in th
 
 ---
 
-*Last updated: July 2025*
+*Last updated: September 2025*
