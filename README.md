@@ -2,7 +2,7 @@
 
 A comprehensive collection of development documentation, guides, and theoretical resources organized for easy reference and learning.
 
-## 📁 Structure
+## Structure
 
 ### Development
 Hands-on implementation guides and practical resources for building software.
@@ -57,14 +57,14 @@ Foundational concepts and principles for software development.
 - **Security Principles**: Cryptography, threat modeling, security architecture
 - **Algorithms & Data Structures**: Computational complexity, optimization
 
-## 🚀 Getting Started
+## Getting Started
 
 1. Browse the relevant section based on your current needs
 2. Check the `development/workflows/` section for setup guides
-3. Refer to `theory/` sections for deeper understanding of concepts
+3. Refer to `theory/` sections for a deeper understanding of concepts
 4. Use the search functionality to find specific topics
 
-## 📝 Contributing
+## Contributing
 
 This documentation is continuously evolving. When adding new content:
 
@@ -74,7 +74,7 @@ This documentation is continuously evolving. When adding new content:
 4. Cross-reference related documents when applicable
 5. Keep examples practical and up-to-date
 
-## 🔄 Migration Status
+## Migration Status
 
 This repository is currently being restructured. Some content may still be in the process of being moved to the new organization system.
 
